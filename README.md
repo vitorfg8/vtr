@@ -1,6 +1,6 @@
 # vtr
 
-vtr is a theme for Oh My Bash that displays development information in a concise way.
+vtr is a theme for [Oh My Bash](https://github.com/ohmybash/oh-my-bash) that displays development information in a concise way.
 
 ## Screenshots
 ![screenshot](./screenshot.png)
